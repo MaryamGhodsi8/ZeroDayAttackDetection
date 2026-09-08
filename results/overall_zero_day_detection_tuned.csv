@@ -1,0 +1,6 @@
+,Overall Zero-Day Detection Rate (%)
+Random Forest,44.10666666666667
+Logistic Regression,40.906666666666666
+KNN,40.77333333333333
+Linear SVM,37.01333333333333
+Decision Tree,36.64
