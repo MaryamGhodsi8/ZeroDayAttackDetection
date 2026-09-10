@@ -1,0 +1,6 @@
+Model,Zero-Day Detection (%),Status
+Random Forest,56.91,Optimized
+Decision Tree,50.03,Optimized
+KNN,40.77,Baseline
+Linear SVM,37.01,Baseline
+Logistic Regression,36.4,Baseline

@@ -1,6 +1,0 @@
-Model,Overall Zero-Day Detection (%),Mean Per-Attack Detection (%)
-Decision Tree,36.64,25.31
-Random Forest,44.11,37.23
-KNN,40.77,27.87
-Linear SVM,37.01,15.31
-Logistic Regression,40.91,16.15
