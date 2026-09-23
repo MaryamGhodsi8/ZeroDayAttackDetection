@@ -1,0 +1,3 @@
+Family,Best Model,Zero-Day Detection (%)
+Supervised,Random Forest,56.91
+Unsupervised,Isolation Forest,65.28

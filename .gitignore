@@ -1,0 +1,82 @@
+# =========================
+# Dataset
+# =========================
+
+NSL-KDD-Dataset-master/
+data/*.txt
+data/*.csv
+data/*.arff
+data/*.data
+
+
+# =========================
+# Processed datasets
+# =========================
+
+data/*.pkl
+data/*.joblib
+
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+
+venv/
+.venv/
+env/
+
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
+
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+
+NSL-KDD-Dataset-master.zip
+.vscode/
+
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.keras
+
+# Models
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.keras
+
+# Dataset
+NSL-KDD-Dataset-master/
+NSL-KDD-Dataset-master.zip
+data/*.txt
+data/*.csv
+data/*.arff
+data/*.data
+data/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/

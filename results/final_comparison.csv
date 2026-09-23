@@ -1,0 +1,9 @@
+Model,Family,Zero-Day Detection (%)
+Isolation Forest,Unsupervised,65.28
+Random Forest,Supervised,56.91
+Decision Tree,Supervised,50.03
+One-Class SVM,Unsupervised,43.52
+KNN,Supervised,40.77
+Linear SVM,Supervised,37.01
+Logistic Regression,Supervised,36.4
+Local Outlier Factor,Unsupervised,26.693333

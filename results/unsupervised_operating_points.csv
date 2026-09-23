@@ -1,0 +1,13 @@
+Model,Target FPR (%),Seen F1 (%),Seen FPR (%),Zero-Day Detection (%)
+Isolation Forest,1.0,74.736053,1.153331,44.72
+Isolation Forest,3.0,77.005631,2.05952,57.973333
+Isolation Forest,5.0,78.223383,2.461127,65.28
+Isolation Forest,10.0,79.815951,7.331892,72.4
+One-Class SVM,1.0,4.850427,0.51488,6.373333
+One-Class SVM,3.0,11.903561,2.471424,24.773333
+One-Class SVM,5.0,77.190713,4.242611,43.52
+One-Class SVM,10.0,81.316649,5.601895,57.653333
+Local Outlier Factor,1.0,75.943698,6.302132,12.08
+Local Outlier Factor,3.0,81.940573,8.958913,16.64
+Local Outlier Factor,5.0,84.280173,10.925754,26.693333
+Local Outlier Factor,10.0,85.712738,15.116878,33.173333
